@@ -183,9 +183,27 @@
 - Integration Testing.
 - Widget Testing.
 
+### Internationalisation of Flutter App
+- Creating app in multi language
+- Switching  the app langauges dynamicaly
+
+### Clean Architecture 
+- Design Pattern
+- SOLID, DRY and KISS 
+- MVP, MVVM, BLoC Patterns
+- Folder Strucutres 
+
 ### Flutter Web And Desktop
 - Create and Pubish App On Web.
 - Create and Publish App On Desktop.
+
+### Isolates and Multi Threading in Flutter
+- What are isolates, when to use them 
+- Multithreading in Flutter
+
+### Web Sockets in Flutter
+- What is web sockets ?
+- Chat App Using Web Sockets
 
 ### Earning Money With Flutter
 - Local Ads.
