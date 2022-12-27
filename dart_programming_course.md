@@ -77,3 +77,18 @@
 ### Dart Test
 - Quiz and Theory Test
 - Questions are available in at dart-tutorial.com
+
+
+### Exercise
+Exercises : 
+
+1. Write a program in dart to do the following
+    1. take a number as user input and find out if the number is even or odd
+    2. Take a principle amount and calculate the simple interest 
+    3. Ask user a no and display the message “ Dart is Awesome “ that many times
+2. Write a dart program to do the following
+    1. write a function that accepts two numbers and return the sum of the numbers entered. Now print the returned value assigning it to a varibale
+    2.  use dart Higher Order Function to do following task 
+        1. Accept user inputs [ two numbers ] 
+        2. Sums the input and send that to another function to be multiplied by 4
+        3. Print the value
