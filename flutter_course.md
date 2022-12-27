@@ -120,6 +120,7 @@
 - Create News App Using API.
 - Create Weather App Using API.
 - Work With Web Sockets
+- Paginat
 
 ### Learn to Use Local Storage
 - Store Data In Key Value Pairs.
@@ -193,9 +194,6 @@
 - MVP, MVVM, BLoC Patterns
 - Folder Strucutres 
 
-### Flutter Web And Desktop
-- Create and Pubish App On Web.
-- Create and Publish App On Desktop.
 
 ### Isolates and Multi Threading in Flutter
 - What are isolates, when to use them 
